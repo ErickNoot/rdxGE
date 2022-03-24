@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5beaadb-4db5-40a3-bc60-91a8d3e734b5": {
+      "ProjectGuid": "c5beaadb-4db5-40a3-bc60-91a8d3e734b5",
+      "DisplayName": "rdxGE",
+      "ColorIndex": 0
+    },
+    "7f51f280-794e-4f76-b6c8-799b7edb9210": {
+      "ProjectGuid": "7f51f280-794e-4f76-b6c8-799b7edb9210",
+      "DisplayName": "sandbox",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

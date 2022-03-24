@@ -1,0 +1,2 @@
+﻿  test.cpp
+S:\projetos\rdxGE\rdxGE\src\test.cpp(2,10): fatal error C1083: Não é possível abrir arquivo incluir: 'stdio.h': No such file or directory
